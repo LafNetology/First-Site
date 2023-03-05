@@ -12,7 +12,7 @@ _This January_ I started studying Python at **Netology school**.
 
 
 ## This is my first website!!! 
-_... and I'm really happy with that :-)_
+_... and I'm really happy with that 😊_
 
 Besides I love:
 - cooking
@@ -25,6 +25,6 @@ If you need some more information about me, please don't hesitate to contact me 
 
 
 
->...and don't forget that only intelligence is sexy ;)
+>...and don't forget that only intelligence is sexy 🐱‍💻
 
 
